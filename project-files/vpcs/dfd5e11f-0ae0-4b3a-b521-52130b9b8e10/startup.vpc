@@ -1,0 +1,9 @@
+# This the configuration for Inovacao2
+#
+# Uncomment the following line to enable DHCP
+# dhcp
+# or the line below to manually setup an IP address and subnet mask
+ip 10.100.1.131 255.255.255.128 10.100.1.65
+#
+
+set pcname Inovacao2

@@ -1,0 +1,9 @@
+# This the configuration for HP
+#
+# Uncomment the following line to enable DHCP
+# dhcp
+# or the line below to manually setup an IP address and subnet mask
+ip 10.100.0.130 255.255.255.128 10.100.0.129
+#
+
+set pcname HP

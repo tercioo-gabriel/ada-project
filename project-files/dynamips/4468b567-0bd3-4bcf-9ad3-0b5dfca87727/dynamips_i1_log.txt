@@ -1,0 +1,10 @@
+Mar 31 21:27:21.389 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Mar 31 21:27:21.390 HYPERVISOR: Started on IP = localhost, TCP port = 50492.
+Mar 31 21:27:21.513 HYPERVISOR: exec_cmd: hypervisor version 
+Mar 31 21:27:21.514 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\terci\GNS3\projects\ada-projetoRedes-TercioGabriel-1342\project-files\dynamips 
+Mar 31 21:27:21.515 GENERAL: working_dir=C:\Users\terci\GNS3\projects\ada-projetoRedes-TercioGabriel-1342\project-files\dynamips
+Mar 31 21:27:21.515 HYPERVISOR: exec_cmd: ethsw create TI 
+Mar 31 21:27:25.082 HYPERVISOR: exec_cmd: ethsw delete TI 
+Mar 31 21:27:25.085 HYPERVISOR: exec_cmd: hypervisor stop 
+Mar 31 21:27:25.598 HYPERVISOR: Stopped.
+Mar 31 21:27:25.603 GENERAL: reset done.

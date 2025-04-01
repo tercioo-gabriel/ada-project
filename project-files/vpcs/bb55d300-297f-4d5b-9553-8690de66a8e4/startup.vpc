@@ -1,0 +1,9 @@
+# This the configuration for Chefia
+#
+# Uncomment the following line to enable DHCP
+# dhcp
+# or the line below to manually setup an IP address and subnet mask
+ip 10.100.4.2 255.255.255.192 10.100.4.1
+#
+
+set pcname Chefia
