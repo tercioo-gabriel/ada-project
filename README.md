@@ -65,7 +65,7 @@
 ### Testando conectividade entre Host e NAT
 <img src="./imgs/dev-nat.png" />
 
-### Testando conectividade entre Host e Host
+### Testando conectividade entre Host e Host (diferentes Switches)
 <img src="./imgs/dev-rh.png" />
 
 ### Testando conectividade com 8.8.8.8
